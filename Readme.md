@@ -1,0 +1,1 @@
+Working around angular 1.2.0rc1
